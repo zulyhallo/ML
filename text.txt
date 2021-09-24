@@ -1,0 +1,6 @@
+In this project, it is aimed to evaluate the performance of potential predictive models utilizing the earlydisease
+clinical data and guessing if a patient would need intensive care support or intubation. A published clinical dataset is 
+provided for this task.For this purpose, using the data features 
+(laboratory and clinical values of the patients) the state of these patients 
+(intensive care support, intubation) will be predicted separately. Random forest and Gradient Boosted Trees algorithms will 
+be used as the predictive models.
